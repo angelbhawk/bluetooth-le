@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iotec</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank</string>
+    <string name="home_fragment_title">Bluetooth LE</string>
+    <string name="home_fragment_sub">¡Busca los dispositivos vinculados!</string>
+    <string name="home_fragment_terminal">Terminal</string>
+    <string name="home_fragment_send">Enviar</string>
+    <string name="home_fragment_hello_world">Hola mundo!</string>
+</resources>
