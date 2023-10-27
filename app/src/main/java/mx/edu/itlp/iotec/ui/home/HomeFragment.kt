@@ -101,17 +101,17 @@ class HomeFragment : Fragment() {
         mNameDevices = ArrayAdapter(m, android.R.layout.simple_list_item_1)
 
         val idBtnEncender = v.findViewById<Button>(R.id.btnEncender)
-        //val idBtnOffBT = findViewById<Button>(R.id.idBtnOffBT)
+        // val idBtnOffBT = findViewById<Button>(R.id.idBtnOffBT)
         val idBtnConectar = v.findViewById<Button>(R.id.btnConectar)
         val idBtnEnviar = v.findViewById<Button>(R.id.btnEnviar)
         val idBtnBuscar = v.findViewById<Button>(R.id.btnBuscar)
 
-        //val idBtnLuz_1on = findViewById<Button>(R.id.idBtnLuz_1on)
-        //val idBtnLuz_1off = findViewById<Button>(R.id.idBtnLuz_1off)
-        //val idBtnLuz_2on = findViewById<Button>(R.id.idBtnLuz_2on)
-        //val idBtnLuz_2off = findViewById<Button>(R.id.idBtnLuz_2off)
+        // val idBtnLuz_1on = findViewById<Button>(R.id.idBtnLuz_1on)
+        // val idBtnLuz_1off = findViewById<Button>(R.id.idBtnLuz_1off)
+        // val idBtnLuz_2on = findViewById<Button>(R.id.idBtnLuz_2on)
+        // val idBtnLuz_2off = findViewById<Button>(R.id.idBtnLuz_2off)
 
-        //val idBtnDispBT = v.findViewById<Button>(R.id.idBtnDispBT)
+        // val idBtnDispBT = v.findViewById<Button>(R.id.idBtnDispBT)
         val idSpnDispos = v.findViewById<Spinner>(R.id.spnDispositivos)
         val idEtxTerminal = v.findViewById<EditText>(R.id.etTerminal)
 
